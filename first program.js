@@ -31,9 +31,6 @@
 // console.log("next coomand");
 // console.log(ContactInfo[2].city);
 
-
-
-
 // now getting array from an object
 
 // const animal_kingdom = {
@@ -46,4 +43,3 @@
 // console.log(animal_kingdom);
 // console.log(animal_kingdom.birds);
 // console.log(animal_kingdom.reptile[1]);
-
